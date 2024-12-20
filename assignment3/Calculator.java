@@ -1,7 +1,4 @@
-/* Name : ADIBA KHANDAKER
-ID: 011 231 0085
-ASSIGNMENT 3;
- */
+
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
